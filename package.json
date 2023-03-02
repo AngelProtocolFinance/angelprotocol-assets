@@ -1,0 +1,19 @@
+{
+  "name": "angelprotocol-assets",
+  "version": "0.0.1",
+  "description": "Chain and Token information used by Angel Protocol applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelProtocolFinance/angelprotocol-assets.git"
+  },
+  "author": "Angel Protocol",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AngelProtocolFinance/angelprotocol-assets/issues"
+  },
+  "homepage": "https://github.com/AngelProtocolFinance/angelprotocol-assets#readme"
+}
