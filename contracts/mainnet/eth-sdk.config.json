@@ -1,0 +1,86 @@
+{
+	"outputPath": "./eth-sdk",
+	"noFollowProxies": true,
+	"contracts": {
+		"polygon": {
+		    "accounts": {
+		      "diamond": "",
+		      "facets": {
+		        "accountDeployContract": "",
+		        "accountDepositWithdrawEndowments": "",
+		        "accountDonationMatch": "",
+		        "accountsAllowance": "",
+		        "accountsCreateEndowment": "",
+		        "accountsDAOEndowments": "",
+		        "accountsQueryEndowments": "",
+		        "accountsSwapEndowments": "",
+		        "accountsUpdate": "",
+		        "accountsUpdateEndowments": "",
+		        "accountsUpdateEndowmentSettingsController": "",
+		        "accountsUpdateStatusEndowments": "",
+		        "accountsVaultFacet": "",
+		        "diamondCutFacet": "",
+		        "diamondInitFacet": "",
+		        "diamondLoupeFacet": "",
+		        "ownershipFacet": ""
+		      }
+		    },
+		    "charityApplication": {
+		      "implementation": ""
+		    },
+		    "donationMatch": {
+		      "implementation": ""
+		    },
+		    "donationMatchCharity": {
+		      "implementation": "",
+		      "proxy": ""
+		    },
+		    "incentivisedVotingLockup": {
+		      "implementation": ""
+		    },
+		    "indexFund": {
+		      "implementation": "",
+		      "proxy": ""
+		    },
+		    "libraries": {
+		      "ANGEL_CORE_STRUCT_LIBRARY": "",
+		      "STRING_LIBRARY": ""
+		    },
+		    "multiSig": {
+		      "applications": {
+		        "implementation": "",
+		        "proxy": ""
+		      },
+		      "apTeam": {
+		        "implementation": "",
+		        "proxy": ""
+		      },
+		      "endowment": {
+		        "emitter": {
+		          "implementation": "",
+		          "proxy": ""
+		        },
+		        "factory": "",
+		        "implementation": ""
+		      }
+		    },
+		    "registrar": {
+		      "implementation": "",
+		      "proxy": ""
+		    },
+		    "subDao": {
+		      "emitter": {
+		        "implementation": "",
+		        "proxy": ""
+		      },
+		      "implementation": "",
+		      "token": "",
+		      "veBondingToken": ""
+		    },
+		    "swapRouter": {
+		      "implementation": "",
+		      "proxy": ""
+		    }
+  		}
+	}
+}
