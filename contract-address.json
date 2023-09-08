@@ -1,0 +1,94 @@
+{
+ "137": {
+    "accounts": {
+      "diamond": "0xf3f48A60EbA732aC2993e11eC93eAD782Ab237e4",
+      "facets": {
+        "accountsDepositWithdrawEndowments": "0xa4341A6Dc7267D6226FAEf9C35Af3cfAd46b624E",
+        "accountsAllowance": "0x96ca668AEecf5A515d402fE1Ca0C5B664Dfc92d2",
+        "accountsCreateEndowment": "0xD81fBBD072E14A0e87Fb0C832F62Ae1134C79571",
+        "accountsGasManager": "0xf1475dDa2EC44187DBC1D575696ed1D094D50Ef8",
+        "accountsQueryEndowments": "0xBEeED6a8eC2EB9De143d6A9907aa2f153BE7E470",
+        "accountsStrategy": "0x3eF2b7D43A746E26e8985DD2057BA77C7ba7471a",
+        "accountsSwapRouter": "0x660Af60D9fc671eA77F49f3Eb82f5639afeb9C26",
+        "accountsUpdate": "0xfb988Ee5Cf9c4391a3E1993cC0472910805Ca2AC",
+        "accountsUpdateEndowments": "0x214665939fb75B0A38511a35D09fF3c566fEeC26",
+        "accountsUpdateEndowmentSettingsController": "0xe22e0DCa96ef125891C6bbe9f40A74EFF5fd6994",
+        "accountsUpdateStatusEndowments": "0xe0061c9850Bb89Ed46DA27C752697A3A800A0c7C",
+        "diamondCutFacet": "0xdF7e6f2144f8D933dE22d9c8ba21936e8dD30011",
+        "diamondInitFacet": "0xc0bAe01FEeeDCD828880f2E6373b7fC02f677780",
+        "diamondLoupeFacet": "0x309F249c3aBE5B794199844b31CcBF946e514E14",
+        "ownershipFacet": "0xfF92B82eB6a43b3ab5a52eB11050f2Fdab0ba362"
+      }
+    },
+    "axelar": {
+      "gasService": "0x109641D919da899C7Bd1Ce27413D0C02b3Bb611d",
+      "gateway": "0x109641D919da899C7Bd1Ce27413D0C02b3Bb611d"
+    },
+    "gasFwd": {
+      "factory": "0xE592B0Cb837c2a227a92D5D34386b73Ca6EA8714",
+      "implementation": "0xAFE593B5005232dEDA257c1Ffe8bAD25423A60eA"
+    },
+    "indexFund": {
+      "implementation": "0x0C28aAB755c2Ce2c182B9abCdbF482f5C63970E3",
+      "proxy": "0x61220f6977595ce33DccbcFdE68B8641Aca08F81"
+    },
+    "multiSig": {
+      "charityApplications": {
+        "implementation": "0x861492926cC1102b05A767a34Cf777295B8Ab68F",
+        "proxy": "0x723ca90Ab7A2778F8D8bAc07c789cA989909367e"
+      },
+      "apTeam": {
+        "implementation": "0x11E1952322b142f2bE78f8830a2a5Af935258aD9",
+        "proxy": "0x52E2657Ab33B5A540D277737374d72CfB75c8D98"
+      },
+      "endowment": {
+        "emitter": {
+          "implementation": "0xC3769fDb11C6c76c0aD873E3C28ad539C1925f87",
+          "proxy": "0x1411A8Be58c84d1351f679581d388A34790ce6AD"
+        },
+        "factory": "0x5A050E9349F5b179c8303529fAD9B8b215389454",
+        "implementation": "0x3260DDAd913eb4f6C5c59806344A4de0199e0cb1"
+      },
+      "proxyAdmin": "0x1f18bfBA95AA3b6A6872fFd77491a27f5BD73Bb9"
+    },
+    "registrar": {
+      "implementation": "0x7762cC8C23056112B5DD52Ee34E167705f2320a0",
+      "proxy": "0xE43146c332603072F11ca0c191910F613B1D096F"
+    },
+    "router": {
+      "implementation": "0x962cc5c05200b277Fb956096e8fc54E3CC4c3209",
+      "proxy": "0xAEBEAB403Fc056701C6B07a14CE08f06D5DD5a72"
+    },
+    "tokens": {
+      "halo": "",
+      "seedAsset": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "usdc": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "wmatic": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+    },
+    "uniswap": {
+      "factory": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
+      "swapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564"
+    },
+    "vaultEmitter": {
+      "implementation": "0x6e1F83926e8E37F94660Ae7bE152F6338E7947aA",
+      "proxy": "0x549c05870A4889bA79B3E5743493932c0fdF34BA"
+    }
+  },
+  "80001": {
+    "axelar": {
+      "gasService": "0xbE406F0189A0B4cf3A05C286473D23791Dd44Cc6",
+      "gateway": "0xBF62ef1486468a6bd26Dd669C06db43dEd5B849B"
+    },
+    "tokens": {
+      "dai": "0xb973d2876c4f161439ad05f1dae184dbd594e04e",
+      "halo": "",
+      "seedAsset": "0x06499E212Ce9F9D4a2147e82242F137c5e32f8C8",
+      "usdc": "0x0fa8781a83e46826621b3bc094ea2a0212e71b23",
+      "wmatic": "0x9c3c9283d3e44854697cd22d3faa240cfb032889"
+    },
+    "uniswap": {
+      "factory": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+      "swapRouter": "0xE592427A0AEce92De3Edee1F18E0157C05861564"
+    }
+  }
+}
