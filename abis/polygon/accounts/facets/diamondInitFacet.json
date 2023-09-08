@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"address","name":"owner","type":"address"},{"internalType":"address","name":"registrar","type":"address"},{"internalType":"string","name":"networkName","type":"string"}],"name":"init","outputs":[],"stateMutability":"nonpayable","type":"function"}]
